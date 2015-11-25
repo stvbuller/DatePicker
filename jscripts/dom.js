@@ -1,9 +1,11 @@
 $(document).ready(function(){
 
-  // alert("working");
+  alert("working");
 
    // The date picker 
-  $("#datepicker").pickadate()
+  $('.datepicker1').pickadate();
+
+
 
 });
 
